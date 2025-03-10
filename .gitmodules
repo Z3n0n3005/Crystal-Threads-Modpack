@@ -1,0 +1,3 @@
+[submodule "mod/Crystal-Threads-Integration"]
+	path = mod/Crystal-Threads-Integration
+	url = https://github.com/Z3n0n3005/Crystal-Threads-Integration.git
